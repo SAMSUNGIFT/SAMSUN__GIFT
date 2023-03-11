@@ -20,8 +20,8 @@ background-color: rgb(223, 199, 221);
 
 }
 nav{
-    width: 2%;
-    min-width: 600px;
+    width: 30%;
+    min-width: 350px;
     height: 15vh;
     display: flex;
    
@@ -52,7 +52,7 @@ a::before{
     left: 0;
     height: 3px;
     width: 0%;
-    background-color: #400355;
+    background-color: rgb(182, 3, 119);
     bottom: -7px;
     transition: 0.3s;
     -moz-transition:0.3s ;
@@ -70,8 +70,13 @@ a{
     background-color: rgb(220, 196, 218);
 }
 p{
-    color: #fd168a;
+    color: #fa419d;
+    background-color:rgb(220, 196, 218);
+    margin: auto;
+    width: 18%;
     
+  
+
     
    
     
@@ -91,6 +96,9 @@ h3{
     padding-right: 10%;
     line-height: normal;
     background-color: rgb(223, 199, 221);
+}
+body{
+    background-color: #f5deea;
 }
 
 
