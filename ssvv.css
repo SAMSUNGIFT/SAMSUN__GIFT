@@ -28,7 +28,8 @@ nav{
    
     justify-content: space-around;
     align-items: center;
-    margin: 0%;
+
+   
    
 
 
@@ -45,7 +46,15 @@ nav a {
     -moz-transition:0.3s ;
     -ms-transition:0.3s ;
     -o-transition:0.3s ;
-    padding: 0 10px;
+    align-items: center;
+    margin: 04%;
+   
+
+    
+    
+    
+   
+    
 }
 a::before{
     content:'';
